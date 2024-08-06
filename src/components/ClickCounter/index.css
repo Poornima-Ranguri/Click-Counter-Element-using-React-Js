@@ -1,0 +1,32 @@
+.home {
+  background-color: #f1f5f8;
+  height: 100vh;
+  width: 100vw;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.heading {
+  color: #2d3a35;
+}
+
+.span-element {
+  color: #c20a72;
+}
+
+.parag {
+  color: #2d3a35;
+}
+
+.btn-element {
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+  padding: 10px;
+}
